@@ -36,24 +36,6 @@ maps: dict[str, MapDict] = {
         },
         "weather": None
     },
-    "playmap_52": {
-        "height": 20,
-        "width": 30,
-        "pretty_name": "Haunted Swamp",
-        "song": "xDeviruchi - Mysterious Dungeon.mp3",
-        "extra_actions": None,
-        "poke_args": {
-            "pokes": ["gobost", "owol", "corcos_day", "corcos_night"],
-            "minlvl": 230,
-            "maxlvl": 290
-        },
-        "w_poke_args": {
-            "pokes": ["karpi", "blub"],
-            "minlvl": 230,
-            "maxlvl": 290
-        },
-        "weather": "foggy"
-    },
     "cave_1": {
         "height": 30,
         "width": 90,
